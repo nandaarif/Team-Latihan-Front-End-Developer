@@ -3,4 +3,5 @@
 # Kasih komentar setiap ada perubahan
 
 # mang ea kakak
+dibawah ini adalah tujuan kita belajar dan membuat web
 #https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu
